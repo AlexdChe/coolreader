@@ -1,3 +1,16 @@
+cr3 (3.0.56-7mint1) noble; urgency=medium
+
+  [ AlexdChe ]
+  * 
+
+  [ alex ]
+  * create LinuxMint
+
+  [ AlexdChe ]
+  * Adapt package for Linux Mint
+
+ -- AlexdChe <dchirkis@gmail.com>  Sun, 09 Aug 2026 23:54:08 +0300
+
 cr3 (3.0.56-7) unstable; urgency=low
 
   * merge upstream changes
